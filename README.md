@@ -1,6 +1,6 @@
-Created in 2021 wiyh p5.js
+Created in 2021 with p5.js
 
-Pushed to Github 2024
+Pushed to Github in 2024
 
 
 More Info:
